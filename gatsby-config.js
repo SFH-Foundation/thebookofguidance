@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Unifying The Blue Book`,
-    siteUrl: "https://unifying.thebluebook.co.za",
-    url: "https://unifying.thebluebook.co.za",
+    title: `Shaykh Fadhlalla Haeri`,
+    siteUrl: "https://thebookofguidance.com",
+    url: "https://thebookofguidance.com",
     description:
-      "The fourth peace of The Blue Book trilogy.",
+      "Who are you, really?",
     image:
-      "https://thebluebook.co.za/img/unifying_structure.jpg",
-    twitterUsername: "@cryptowanderer",
+      "https://thebookofguidance.com/img/tree_structure.jpg",
+    twitterUsername: "@SFH_Foundation",
   },
   plugins: [
     {

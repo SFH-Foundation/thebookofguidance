@@ -1,5 +1,5 @@
 {
-  "name": "unifying-the-blue-book",
+  "name": "the-book-of-guidance",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "keywords": [],
-  "author": "Andy Tudhope <andy@status.im> (https://andytudhope.africa)",
+  "author": "Shaykh Fadhlalla Haeri (https://sfhfoundation.com)",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",

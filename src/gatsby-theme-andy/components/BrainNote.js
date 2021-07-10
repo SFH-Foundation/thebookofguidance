@@ -36,10 +36,10 @@ const BrainNote = ({ note }) => {
           <hr className="mx-auto w-32" />
           <RefLink
             className="no-underline hover:text-gray-700"
-            to={`/structure`} // hack
+            to={`#`} // hack
           >
             <div className="py-2">
-              <p className="text-sm m-0 text-navy underline">If you find that you're lost, consult the unifying structure</p>
+              <p className="text-sm m-0 text-navy underline">If you find that you're lost, consult the guiding structure</p>
             </div>
           </RefLink>
         </>
